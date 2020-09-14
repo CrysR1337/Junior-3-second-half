@@ -1,0 +1,15 @@
+第二部分，文献检索
+通过 Dynamic pricing in smart grids可以提取出以下关键词进行检索
+分别是smart grids 智能电网，dynamic pricing 动态定价， real-time pricing 实时定价 personalized pricing个性化定价
+通过检索，还有一些其他相关的关键词： demand-side management 需求侧管理 和 load forecasting 负载预测
+
+先是通过Google学术进行检索，输入关键词 dynamic pricing， smart grid就能够得到相关结果，左侧能够添加筛选条件，如年份，排序方式，语言等。
+    正文内容可以看到论文的被引用数以及历史版本，点击双引号可以复制引用格式
+
+可以点进一个作者，查看该作者相关作品与合作者等信息
+
+再点击搜索框，会出现其他相关的，被搜索次数比较多的问题，根据需要进行检索
+
+
+之后使用IEEE Xplore 检索，输入关键字后上方可以复选文章类型，还可以设定排序方式(根据相关性，最新，被引用次数最多等)，
+（下一页）作业可以添加年份，作者，出版社等筛选条件，对结果进行筛选
